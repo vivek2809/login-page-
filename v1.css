@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(p2.jpg);
+    background-size:100%;
+}
+.box{
+           border-style: solid;
+           border-width: medium;
+           margin-left: 35%;
+           margin-right: 35%;
+           margin-top:10%;
+           padding-bottom:7%;
+}
+.login{
+   text-align: center;
+   border-bottom: solid;
+   padding: 15px;
+   margin: 0;
+   background-color: rgb(47, 119, 167);
+}
+.form{
+     margin:30px
+}
+.bx{
+    background:gray;
+}
+.l1{
+    padding-bottom: 10px;
+    font-size: x-large;
+    font-family: serif red;
+}
+.l2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: x-large;
+}
+.l3{
+    margin-top: 20px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background:rgb(42, 104, 155);
+}
+.bx1{
+    background: gray;
+}
